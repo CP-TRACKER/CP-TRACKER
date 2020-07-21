@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cp-tracks.herokuapp.com/static/css/main.84bc3ddd.chunk.css",
+    "main.js": "/cp-tracks.herokuapp.com/static/js/main.3182eeaf.chunk.js",
+    "main.js.map": "/cp-tracks.herokuapp.com/static/js/main.3182eeaf.chunk.js.map",
+    "runtime-main.js": "/cp-tracks.herokuapp.com/static/js/runtime-main.195bacf8.js",
+    "runtime-main.js.map": "/cp-tracks.herokuapp.com/static/js/runtime-main.195bacf8.js.map",
+    "static/css/2.d226c414.chunk.css": "/cp-tracks.herokuapp.com/static/css/2.d226c414.chunk.css",
+    "static/js/2.4b4d8682.chunk.js": "/cp-tracks.herokuapp.com/static/js/2.4b4d8682.chunk.js",
+    "static/js/2.4b4d8682.chunk.js.map": "/cp-tracks.herokuapp.com/static/js/2.4b4d8682.chunk.js.map",
+    "index.html": "/cp-tracks.herokuapp.com/index.html",
+    "precache-manifest.5cad6aa079ce3192e7b450191cb66cee.js": "/cp-tracks.herokuapp.com/precache-manifest.5cad6aa079ce3192e7b450191cb66cee.js",
+    "service-worker.js": "/cp-tracks.herokuapp.com/service-worker.js",
+    "static/css/2.d226c414.chunk.css.map": "/cp-tracks.herokuapp.com/static/css/2.d226c414.chunk.css.map",
+    "static/css/main.84bc3ddd.chunk.css.map": "/cp-tracks.herokuapp.com/static/css/main.84bc3ddd.chunk.css.map",
+    "static/js/2.4b4d8682.chunk.js.LICENSE.txt": "/cp-tracks.herokuapp.com/static/js/2.4b4d8682.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/cp-tracks.herokuapp.com/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/img1-carousel.png": "/cp-tracks.herokuapp.com/static/media/img1-carousel.99117925.png",
+    "static/media/img2-carousel.png": "/cp-tracks.herokuapp.com/static/media/img2-carousel.9b473b51.png",
+    "static/media/img3-carousel.png": "/cp-tracks.herokuapp.com/static/media/img3-carousel.8bf136c3.png",
+    "static/media/img4-carousel.png": "/cp-tracks.herokuapp.com/static/media/img4-carousel.5abe4e09.png",
+    "static/media/logo.png": "/cp-tracks.herokuapp.com/static/media/logo.d7701528.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195bacf8.js",
+    "static/css/2.d226c414.chunk.css",
+    "static/js/2.4b4d8682.chunk.js",
+    "static/css/main.84bc3ddd.chunk.css",
+    "static/js/main.3182eeaf.chunk.js"
+  ]
+}
